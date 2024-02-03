@@ -12,6 +12,7 @@ function Hero() {
             variant="h1"
             color="blue-gray"
             className="mb-4 lg:text-5xl !leading-tight text-3xl"
+            placeholder="Placeholder" // Added placeholder property with value "Placeholder"
           >
             Devansh Asthana for Cultural <br /> Secretary
           </Typography>
