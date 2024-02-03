@@ -21,7 +21,8 @@ export function PopularClients() {
             placeholder="Placeholder">
             THIS ELECTION
           </Typography>
-          <Typography variant="h2" color="blue-gray" className="mb-4">
+          <Typography variant="h2" color="blue-gray" className="mb-4"
+            placeholder="Placeholder">
             Vote for Devansh Asthana as <br /> Cultural Secretary
           </Typography>
         </div>
