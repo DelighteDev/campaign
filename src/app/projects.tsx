@@ -16,7 +16,7 @@ const PROJECTS = [
   },
   {
     img: "/image/tedx.jpeg",
-    title: "TEDxShivNadarUniversity ‘24",
+    title: "TEDxShivNadarUniversity ‘22",
     desc: "Content Associate",
   },
   {
@@ -25,7 +25,7 @@ const PROJECTS = [
     desc: "Co-Founder",
   },
   {
-    img: "/image/e-sports.jpeg",
+    img: "/image/snu-sl.jpeg",
     title: "SNU SL (E-Sports)",
     desc: "Organizer",
   },
@@ -35,9 +35,14 @@ const PROJECTS = [
     desc: "Transportation Head",
   },
   {
-    img: "/image/member.jpeg",
-    title: "Campus Caravan, Inspiria, CinemaScope, Envision",
+    img: "/image/envision.jpg",
+    title: "Envision",
     desc: "Member",
+  },
+  {
+    img: "/image/actor.jpeg",
+    title: "CinemaScope",
+    desc: "Actor",
   },
   {
     img: "/image/breeze.jpeg",
@@ -46,13 +51,13 @@ const PROJECTS = [
   },
   {
     img: "/image/academic-2.jpeg",
-    title: "Academic Affairs Committee",
-    desc: "Volunteer",
+    title: "Imprints",
+    desc: "Izhaar",
   },
   {
     img: "/image/aic.jpeg",
-    title: "AIC",
-    desc: "Startup Cradle",
+    title: "TEDx Club",
+    desc: "Time Capsule",
   },
   {
     img: "/image/family-head.jpeg",
