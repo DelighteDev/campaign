@@ -42,7 +42,7 @@ interface NavItemProps {
 function NavItem({ children, href }: NavItemProps) {
   return (
     <li>
-      <Typography
+      <Typography placeholder="placeholder"
         as="a"
         href={href || "#"}
         variant="paragraph"
@@ -68,9 +68,11 @@ export function Navbar() {
   }, []);
 
   return (
-    <MTNavbar shadow={false} fullWidth className="border-0 sticky top-0 z-50">
+    <MTNavbar
+    placeholder="placeholder"
+    shadow={false} fullWidth className="border-0 sticky top-0 z-50">
       <div className="container mx-auto flex items-center justify-between">
-        <Typography color="blue-gray" className="text-lg font-bold">
+        <Typography placeholder="placeholder" color="blue-gray" className="text-lg font-bold">
           Devansh Asthana
         </Typography>
         <ul className="ml-10 hidden items-center gap-8 lg:flex">
@@ -82,6 +84,7 @@ export function Navbar() {
           ))}
         </ul>
         <IconButton
+        placeholder="placeholder"
           variant="text"
           color="gray"
           onClick={handleOpen}
