@@ -78,15 +78,18 @@ export function Skills() {
   return (
     <section className="px-8" id="vision">
       <div className="container mx-auto mb-20 mt-10 text-center">
-        <Typography color="blue-gray" className="mb-2 font-bold uppercase">
+        <Typography color="blue-gray" className="mb-2 font-bold uppercase"
+           placeholder="Placeholder">
           my vision
         </Typography>
-        <Typography variant="h1" color="blue-gray" className="mb-4">
+        <Typography variant="h1" color="blue-gray" className="mb-4"
+           placeholder="Placeholder">
           What I want to do
         </Typography>
         <Typography
           variant="lead"
           className="mx-auto w-full !text-gray-500 lg:w-10/12"
+          placeholder="Placeholder"
         >
           I am eager to share my tried-and-tested methodology to elevate our collective experience. As part of my commitment to fostering a vibrant community, I plan to expand the Cultural Committee, ensuring ample resources for organizing top-notch events that cater to the diverse needs of our multi-disciplinary student body.
         </Typography>
