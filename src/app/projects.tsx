@@ -72,7 +72,7 @@ export function Projects() {
           variant="lead"
           className="mx-auto w-full px-4 font-xs !text-gray-500 lg:w-10/12"
         >
-          From my very first year, I've poured my passion into being a committed club player, immersing myself in diverse events of all scales. My journey has given me a firsthand understanding of the intricate challenges that clubs and societies grapple with. Fueled by this experience, my vision is to infuse an even more personal touch into our campus culture and ensure that it thrives rather than survive. 
+          From my very first year, I&apos;ve poured my passion into being a committed club player, immersing myself in diverse events of all scales. My journey has given me a firsthand understanding of the intricate challenges that clubs and societies grapple with. Fueled by this experience, my vision is to infuse an even more personal touch into our campus culture and ensure that it thrives rather than survive. 
         </Typography>
       </div>
       <div className="container mx-auto grid grid-cols-1 gap-x-10 gap-y-20 md:grid-cols-2 xl:grid-cols-4">
