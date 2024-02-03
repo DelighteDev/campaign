@@ -17,7 +17,9 @@ function Hero() {
           </Typography>
           <Typography
             variant="lead"
+            color="blue-gray" // Added color property
             className="mb-4 !text-gray-500 md:pr-16 xl:pr-28"
+            placeholder="Placeholder" // Added placeholder property with value "Placeholder"
           >
             I&apos;m Devansh Asthana, an undergrad at SNU with a passion for hosting events and meeting people. Here,
             you&apos;ll get a glimpse of my journey. From being an eager kid who just wanted to be a part of a club to founding my own, I have learnt a lot and I intend to bring that experience in my role as Cultural Secretary.
